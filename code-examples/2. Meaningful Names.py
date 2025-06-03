@@ -34,3 +34,16 @@ class StudentGradeCalculator:
         return sum(self.student_grades) / len(self.student_grades)
 
 
+# methods with nice names
+class UserSystem:
+    def __init__(self, usersData):
+        self.student_data = usersData
+
+    def validate_credentials(self):
+        return 'Method to validate credentials'
+
+    def update_profile(self):
+        return 'Method to update profile'
+
+    def send_password_reset_email(self):
+        return 'Method to send password reset email'
