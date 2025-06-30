@@ -1,3 +1,5 @@
+# “The only truly good comment is the one you found a way not to write.”
+
 # Add only even numbers to the result
 if number % 2 == 0:
     result.append(number)
