@@ -6,6 +6,7 @@ days_until_next_invoice = None;
 total_business_days_in_month = None;
 days_since_last_login = None;
 
+# “Programmers create problems for themselves when they write code solely for the compiler or interpreter.”
 
 # code without purpose
 class TheClass:
